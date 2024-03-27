@@ -1,2 +1,2 @@
-# idp-csa-2024-01
-Computer System Architecture - 2024/01
+# idp-aoc-2024-01
+Arquitetura e Organização de Computadores - 2024/01
